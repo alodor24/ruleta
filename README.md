@@ -1,2 +1,0 @@
-# ruleta
-Created with CodeSandbox
